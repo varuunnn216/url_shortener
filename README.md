@@ -17,24 +17,20 @@ A simple URL shortener built with Rust and Warp. This project includes both a co
 
 1. **Clone the repository:**
 
-   ```sh
    git clone https://github.com/yourusername/url_shortener.git
    cd url_shortener
 
 2. **Build the project:**
 
-   '''sh
    cargo build
 
 
 3. **Running the CLI:**
 
    Shorten a URL:
-   ```sh
    cargo run -- shorten <URL>
 
    Expand a shortened URL:
-   ```sh
    cargo run -- expand <short_url>
 
 
@@ -52,6 +48,6 @@ Feel free to submit issues, create pull requests, or suggest improvements.
 
 Contact
 GitHub: varuunnn216
-LinkedIn: (https://www.linkedin.com/in/varunn216/)
+LinkedIn: [varunn216](https://www.linkedin.com/in/varunn216/)
 
    
