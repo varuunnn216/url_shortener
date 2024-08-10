@@ -43,11 +43,9 @@ A simple URL shortener built with Rust and Warp. This project includes both a co
    http://localhost:3030/expand/<short_url>
 
 
-Contributing
+
 Feel free to submit issues, create pull requests, or suggest improvements.
 
-Contact
-GitHub: varuunnn216
 LinkedIn: [varunn216](https://www.linkedin.com/in/varunn216/)
 
    
