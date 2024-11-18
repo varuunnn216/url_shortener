@@ -17,7 +17,7 @@ A simple URL shortener built with Rust and Warp. This project includes both a co
 
 1. **Clone the repository:**
 
-   git clone https://github.com/yourusername/url_shortener.git
+   git clone https://github.com/varuunnn216/url_shortener.git
    cd url_shortener
 
 2. **Build the project:**
