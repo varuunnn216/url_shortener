@@ -49,3 +49,7 @@ Feel free to submit issues, create pull requests, or suggest improvements.
 LinkedIn: [varunn216](https://www.linkedin.com/in/varunn216/)
 
    
+
+## License
+
+[MIT](LICENSE) © 2026 Varun Singh · See [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).
